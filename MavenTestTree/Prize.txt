@@ -1,0 +1,9 @@
+4:Apple:1000 Euro
+5:Grape:10000 Euro
+5:Kiwi:Trip to Spain
+5:Lemon:Trip to Japan
+4:Pear:Trip to Donegal
+4:Banana:Trip to Caribbean
+6:Orange:Trip to Bahamas
+6:Lime:100000 Euro
+6:Melon:trip to Majorca
